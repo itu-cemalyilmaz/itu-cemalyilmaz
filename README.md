@@ -1,16 +1,42 @@
-## Hi there 👋
+## 👋 Hi, I'm Cemal Yılmaz
 
-<!--
-**itu-cemalyilmaz/itu-cemalyilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Engineering student at **Istanbul Technical University (ITU)**  
+💻 Interested in **Mobile App Development, Artificial Intelligence, and Gamification**  
+🚀 Mainly developing with **Flutter** and improving in **software architecture**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Medicine-Reminder** | A Flutter-based mobile app to improve medication adherence | Flutter / Dart |
+| **offline_gezi_rehberi** | Offline city travel guide application | C++ |
+| **receipt_keeper** | Digital receipt & invoice archiving application | C++ |
+| **Self-Checkout Web App** | Web-based cashier-less checkout system for stores | Web |
+
+---
+
+### 🧰 Tech Stack
+💻 **Programming:** C, C++, Python, Java, Dart, Assembly  
+📱 **Mobile:** Flutter (iOS & Android)  
+🗄️ **Database:** SQL  
+🔧 **Tools:** Git, OOP, Clean Code, Debugging, VS Code
+
+---
+
+### 📫 Connect With Me
+📍 Istanbul, Turkey  
+📧 **yilmazcem21@itu.edu.tr**  
+🌐 **GitHub:** [github.com/itu-cemalyilmaz](https://github.com/itu-cemalyilmaz)
+
+---
+
+### 🧠 Currently Learning
+- AI features in mobile applications  
+- Gamification techniques  
+- Backend fundamentals
+
+---
+
+⭐ If you like my projects, feel free to star — it really motivates me!
