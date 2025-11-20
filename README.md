@@ -11,8 +11,8 @@
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | **Medicine-Reminder** | A Flutter-based mobile app to improve medication adherence | Flutter / Dart |
-| **offline_gezi_rehberi** | Offline city travel guide application | C++ |
-| **receipt_keeper** | Digital receipt & invoice archiving application | C++ |
+| **offline_gezi_rehberi** | Offline city travel guide application | Flutter / Dart  |
+| **receipt_keeper** | Digital receipt & invoice archiving application | Flutter / Dart |
 | **Self-Checkout Web App** | Web-based cashier-less checkout system for stores | Web |
 
 ---
@@ -37,6 +37,3 @@
 - Gamification techniques  
 - Backend fundamentals
 
----
-
-⭐ If you like my projects, feel free to star — it really motivates me!
